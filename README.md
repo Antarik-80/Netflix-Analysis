@@ -1,1 +1,3 @@
-# Netflix-Analysis
+## In this project, I performed an in-depth Exploratory Data Analysis (EDA) on a Netflix dataset using Python to uncover insights into the content available on the platform. The dataset included information such as titles, genres, release dates, cast, country, and type of content (Movie or TV Show).
+
+## Using libraries like Pandas, Seaborn I explored trends in Netflix’s content library — such as the most common genres, content release over time, top contributing countries, and actor appearances. I also     handled missing values, performed data cleaning, and visualized the distribution of key attributes. 
